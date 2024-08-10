@@ -1,0 +1,1 @@
+export const CONVERSATION_ID = "CONVERSATION_ID"
