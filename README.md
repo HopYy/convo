@@ -1,6 +1,6 @@
 # CONVO CHAT APP
 
-![convo](https://raw.githubusercontent.com/HopYy/swapz/main/convo.jpg)
+![convo](https://raw.githubusercontent.com/HopYy/convo/main/convo.jpg)
 
 ## Features
 - [x] User authentication and authorization (JWT)
