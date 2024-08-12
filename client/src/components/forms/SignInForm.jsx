@@ -14,8 +14,8 @@ const SignInForm = () => {
   const dispatch = useDispatch();
   const error = useSelector((state) => state.auth.errorMessage);
 
-  const [username, setUsername] = useState("stipe");
-  const [password, setPassword] = useState("bosnjak123");
+  const [username, setUsername] = useState("");
+  const [password, setPassword] = useState("");
   const [loading, setLoading] = useState(false);
 
   const onSubmit = async (event) => {

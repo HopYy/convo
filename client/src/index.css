@@ -23,6 +23,11 @@
     background: #888;   
 }
 
+html {
+    height: -webkit-fill-available;
+}
+
 body {
     background-color: #313131;
+    height: -webkit-fill-available;
 }
