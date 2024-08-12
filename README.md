@@ -1,5 +1,7 @@
 # CONVO CHAT APP
 
+![convo](https://raw.githubusercontent.com/HopYy/swapz/main/convo.jpg)
+
 ## Features
 - [x] User authentication and authorization (JWT)
 - [x] User profile creation and management
