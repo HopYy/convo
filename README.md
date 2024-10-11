@@ -2,6 +2,11 @@
 
 ![convo](https://raw.githubusercontent.com/HopYy/convo/main/convo.jpg)
 
+## Usage
+Start by creating an account and signing in. Once you're logged in, you can connect with others by sending them a friend request. To begin chatting, the other person must accept your request. You can follow/unfollow or block users if you choose.
+> [!TIP]
+> To get the full experience of our app, we recommend creating two separate accounts and signing in from two different browsers. This way, you can chat with yourself in real-time
+
 ## Features
 - [x] User authentication and authorization (JWT)
 - [x] User profile creation and management
@@ -80,8 +85,3 @@ REACT_APP_PUSHER_APP_KEY="your_pusher_key"
 REACT_APP_PUSHER_APP_ID="your_pusher_id"
 REACT_APP_PUSHER_SECRET="your_pusher_secret"
 ```
-
-## Usage
-Start by creating an account and signing in. Once you're logged in, you can connect with others by sending them a friend request. To begin chatting, the other person must accept your request. You can follow/unfollow or block users if you choose.
-> [!TIP]
-> To get the full experience of our app, we recommend creating two separate accounts and signing in from two different browsers. This way, you can chat with yourself in real-time
