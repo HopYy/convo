@@ -5,7 +5,7 @@
 ## Usage
 Start by creating an account and signing in. Once you're logged in, you can connect with others by sending them a friend request. To begin chatting, the other person must accept your request. You can follow/unfollow or block users if you choose.
 > [!TIP]
-> To get the full experience of our app, we recommend creating two separate accounts and signing in from two different browsers. This way, you can chat with yourself in real-time
+> Because of low activity on app, to get the full experience of our app, we recommend creating two separate accounts and signing in from two different browsers. This way, you can chat with yourself in real-time
 
 ## Features
 - [x] User authentication and authorization (JWT)
